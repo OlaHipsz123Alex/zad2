@@ -167,3 +167,13 @@ style="width:6.69305in;height:2.50208in" />
 style="width:6.69305in;height:1.85625in" />
 
 Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
+
+## Odnośniki do zasobów <a name="Odnośnikidozasobów"></a>
+
+\[odnośnik do zasobów\]([<u>www.gazeta.pl</u>](http://www.gazeta.pl/))
+
+\[odnośnik do pliku\](LICENSE.md)
+
+\[odnośnik do kolejnego zasobu\]\[1\]
+
+\[1\]: http://google,com
