@@ -156,3 +156,7 @@ Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kr
 
 Listy nienumerowane definiujemy znakami: \*,+,-
 
+## Wyróżnianie tekstu <a name="Wyróżnienietekstu"></a>
+
+<img src="./3tmf11mm.png"
+style="width:6.69305in;height:2.50208in" />
