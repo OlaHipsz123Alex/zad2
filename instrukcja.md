@@ -177,3 +177,10 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 \[odnośnik do kolejnego zasobu\]\[1\]
 
 \[1\]: http://google,com
+
+## Obrazki <a name="Obrazki"></a>
+
+\![alt text\](https://server.com/images/icon48.png "Logo 1") – obrazek z
+zasobów internetowych
+
+\![\](logo.png) – obraz z lokalnych zasobów
