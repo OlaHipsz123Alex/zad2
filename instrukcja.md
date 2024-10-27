@@ -16,7 +16,7 @@
     11. [Edytory dedykowane](#Edytorydedykowane)
     12. [Pandoc – system do konwersji dokumentów Markdown do innych formatów](#Pandoc)
   
-   ## Wstęp <a name="Wstęp"></a>
+## Wstęp <a name="Wstęp"></a>
 
 Obecnie powszechnie wykorzystuje się języki ze znacznikami do opisania
 dodatkowych informacji
