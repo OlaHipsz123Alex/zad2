@@ -194,3 +194,16 @@ style="width:6.58403in;height:2.32292in" />
 
 <img src="./ifnhihdg.png"
 style="width:6.69305in;height:5.58055in" />
+
+## Edytory dedykowane <a name="Edytorydedykowane"></a>
+
+Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w dowolnym edytorze tekstowym. Aczkolwiek istnieje wiele dedykowanych narzędzi
+
+> 1. marktext - https://github.com/marktext/marktext
+> 
+> 2. [<u>https://hackmd.io/</u>](https://hackmd.io/) online editor
+>
+> 3. Visual Studio Code z wtyczką „markdown preview”
+> 
+> <img src="./oc1gbrte.png"
+> style="width:6.69305in;height:3.76458in" />
