@@ -207,3 +207,29 @@ Pracę nad dokumentami w formacie Markdown( rozszerzenie md) można wykonywać w
 > 
 > <img src="./oc1gbrte.png"
 > style="width:6.69305in;height:3.76458in" />
+
+## Pandoc – system do konwersji dokumentów Markdown do innych formatów <a name="Pandoc"></a>
+
+Jest oprogramowanie typu open source służące do konwertowania dokumentów pomiędzy różnymi formatami. 
+Pod poniższym linkiem można obejrzeć przykłady użycia:
+
+[<u>https://pandoc.org/demos.html</u>](https://pandoc.org/demos.html)
+
+Oprogramowanie to można pobrać z spod adresu: [<u>https://pandoc.org/installing.html</u>](https://pandoc.org/installing.html)
+
+Jeżeli chcemy konwertować do formatu latex i pdf trzeba doinstalować oprogramowanie składu Latex (np. Na windows najlepiej sprawdzi się Miktex https://miktex.org/)
+
+Gdyby podczas konwersji do formatu pdf pojawił się komunikat o niemożliwości znalezienia programu pdflatex rozwiązaniem jest wskazanie w zmiennej środowiskowej PATH miejsca jego położenia
+
+<img src="./kmmpw0re.png"
+style="width:4.28125in;height:4.86528in" />
+
+<img src="./fusxz4bn.png"
+style="width:6.43819in;height:6.03194in" /><img src="./v4dnyp5q.png"
+style="width:5.35486in;height:1.15625in" />
+
+Pod adresem (https://gitlab.com/mniewins66/templatemn.git) znajduje sięprzykładowy plik Markdown z którego można wygenerować prezentację w formacie pdf wykorzystując klasę latexa beamer.
+
+W tym celu należy wydać polecenie z poziomu terminala:
+
+\$pandoc templateMN.md -t beamer -o prezentacja.pdf
