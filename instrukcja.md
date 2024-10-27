@@ -184,3 +184,8 @@ Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znak
 zasobów internetowych
 
 \![\](logo.png) – obraz z lokalnych zasobów
+
+## Kod źródłowy dla różnych języków programowania <a name="Kodźródłowy"></a>
+
+<img src="./4pv5od0o.png"
+style="width:6.58403in;height:2.32292in" />
