@@ -189,3 +189,8 @@ zasobów internetowych
 
 <img src="./4pv5od0o.png"
 style="width:6.58403in;height:2.32292in" />
+
+## Tworzenie spisu treści na podstawie nagłówków <a name="Spistreści"></a>
+
+<img src="./ifnhihdg.png"
+style="width:6.69305in;height:5.58055in" />
