@@ -147,3 +147,12 @@ Lewe okno zawiera kod źródłowy – prawe -podgląd przetworzonego tekstu
 <img src="./qt0atozq.png"
 style="width:6.69305in;height:3.31667in" />
 
+# Definiowanie list <a name="Definiowanielist"></a>
+
+<img src="./ddyc0sq5.png"
+style="width:6.69306in;height:2.34375in" />
+
+Listy numerowane definiujemy wstawiając numery kolejnych pozycji zakończone kropką.
+
+Listy nienumerowane definiujemy znakami: \*,+,-
+
