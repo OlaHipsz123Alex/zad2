@@ -160,3 +160,10 @@ Listy nienumerowane definiujemy znakami: \*,+,-
 
 <img src="./3tmf11mm.png"
 style="width:6.69305in;height:2.50208in" />
+
+## Tabele <a name="Tabele"></a>
+
+<img src="./rn0d5cx1.png"
+style="width:6.69305in;height:1.85625in" />
+
+Centrowanie zawartości kolumn realizowane jest poprzez odpowiednie użycie znaku dwukropka:
